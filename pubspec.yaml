@@ -38,6 +38,9 @@ dependencies:
   cloud_firestore: ^6.9.0
   firebase_auth: ^6.6.1
   flutter_local_notifications: ^22.3.1
+  latlong2: ^0.10.1
+  geoflutterfire_plus: ^0.0.34
+  flutter_map: ^8.3.2
 
 dev_dependencies:
   flutter_test:
